@@ -18,3 +18,4 @@ C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-win
 C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
 C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MDI.resources
 C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Notas.resources
+C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Impuesto.resources

@@ -14,6 +14,7 @@ namespace WinFormsApp1
     {
         Form1 f = new Form1();
         Notas n = new Notas();
+        Impuesto i = new Impuesto();
         public MDI()
         {
             InitializeComponent();
@@ -29,6 +30,12 @@ namespace WinFormsApp1
         {
             n.MdiParent = this;
             n.Show();
+        }
+
+        private void compraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            i.MdiParent = this;
+            i.Show();
         }
     }
 }

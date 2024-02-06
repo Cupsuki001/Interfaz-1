@@ -32,6 +32,7 @@
             this.eejmplosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.iNSSLaboralToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sumaNotasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.compraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,7 +50,8 @@
             // 
             this.eejmplosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.iNSSLaboralToolStripMenuItem,
-            this.sumaNotasToolStripMenuItem});
+            this.sumaNotasToolStripMenuItem,
+            this.compraToolStripMenuItem});
             this.eejmplosToolStripMenuItem.Name = "eejmplosToolStripMenuItem";
             this.eejmplosToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
             this.eejmplosToolStripMenuItem.Text = "Ejemplos";
@@ -67,6 +69,13 @@
             this.sumaNotasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.sumaNotasToolStripMenuItem.Text = "Suma notas";
             this.sumaNotasToolStripMenuItem.Click += new System.EventHandler(this.sumaNotasToolStripMenuItem_Click);
+            // 
+            // compraToolStripMenuItem
+            // 
+            this.compraToolStripMenuItem.Name = "compraToolStripMenuItem";
+            this.compraToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.compraToolStripMenuItem.Text = "Compra";
+            this.compraToolStripMenuItem.Click += new System.EventHandler(this.compraToolStripMenuItem_Click);
             // 
             // MDI
             // 
@@ -91,5 +100,6 @@
         private ToolStripMenuItem eejmplosToolStripMenuItem;
         private ToolStripMenuItem iNSSLaboralToolStripMenuItem;
         private ToolStripMenuItem sumaNotasToolStripMenuItem;
+        private ToolStripMenuItem compraToolStripMenuItem;
     }
 }
