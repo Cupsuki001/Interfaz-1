@@ -42,22 +42,29 @@ namespace WinFormsApp1
                 }
                 else
                 {
-                    ant = 2024 - año;
-                    antp1 = 2 * ant + 1;
-                    antp = antp1 / 100;
-                    brut = (ant * sal) + sal;
-                    laboral = brut * 0.07;
-                    opebrut = brut - laboral; 
-                    ir = opebrut * 0.1;
-                    opebrut1 = opebrut - ir;
-                    ingn = opebrut1;
+                    if (sal <= 5000 || sal >350000 || año < 1980 || año > 2024 ) 
+                    {
+                        MessageBox.Show("Inngrese los datos correctamente :)");
+                    }
+                    else 
+                    {
+                        ant = 2024 - año;
+                        antp1 = 2 * ant + 1;
+                        antp = antp1 / 100;
+                        brut = (ant * sal) + sal;
+                        laboral = brut * 0.07;
+                        opebrut = brut - laboral;
+                        ir = opebrut * 0.1;
+                        opebrut1 = opebrut - ir;
+                        ingn = opebrut1;
 
-                    TXBantigue.Text = ant.ToString();
-                    TXBAntporc.Text = antp.ToString();
-                    TXBbruto.Text = brut.ToString();
-                    TXBlaboral.Text = laboral.ToString();
-                    TXBir.Text = ir.ToString();
-                    TXBneto.Text = ingn.ToString();
+                        TXBantigue.Text = ant.ToString();
+                        TXBAntporc.Text = antp.ToString();
+                        TXBbruto.Text = brut.ToString();
+                        TXBlaboral.Text = laboral.ToString();
+                        TXBir.Text = ir.ToString();
+                        TXBneto.Text = ingn.ToString();
+                    }
 
                     
                 }
