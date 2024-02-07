@@ -28,70 +28,76 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.eejmplosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.iNSSLaboralToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sumaNotasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.compraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
+            menuStrip1 = new MenuStrip();
+            eejmplosToolStripMenuItem = new ToolStripMenuItem();
+            iNSSLaboralToolStripMenuItem = new ToolStripMenuItem();
+            sumaNotasToolStripMenuItem = new ToolStripMenuItem();
+            compraToolStripMenuItem = new ToolStripMenuItem();
+            farmaciaToolStripMenuItem = new ToolStripMenuItem();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
             // 
             // menuStrip1
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.eejmplosToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(554, 24);
-            this.menuStrip1.TabIndex = 1;
-            this.menuStrip1.Text = "menuStrip1";
+            menuStrip1.ImageScalingSize = new Size(20, 20);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { eejmplosToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Padding = new Padding(7, 3, 0, 3);
+            menuStrip1.Size = new Size(633, 30);
+            menuStrip1.TabIndex = 1;
+            menuStrip1.Text = "menuStrip1";
             // 
             // eejmplosToolStripMenuItem
             // 
-            this.eejmplosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.iNSSLaboralToolStripMenuItem,
-            this.sumaNotasToolStripMenuItem,
-            this.compraToolStripMenuItem});
-            this.eejmplosToolStripMenuItem.Name = "eejmplosToolStripMenuItem";
-            this.eejmplosToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
-            this.eejmplosToolStripMenuItem.Text = "Ejemplos";
+            eejmplosToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { iNSSLaboralToolStripMenuItem, sumaNotasToolStripMenuItem, compraToolStripMenuItem, farmaciaToolStripMenuItem });
+            eejmplosToolStripMenuItem.Name = "eejmplosToolStripMenuItem";
+            eejmplosToolStripMenuItem.Size = new Size(84, 24);
+            eejmplosToolStripMenuItem.Text = "Ejemplos";
             // 
             // iNSSLaboralToolStripMenuItem
             // 
-            this.iNSSLaboralToolStripMenuItem.Name = "iNSSLaboralToolStripMenuItem";
-            this.iNSSLaboralToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.iNSSLaboralToolStripMenuItem.Text = "INSS laboral";
-            this.iNSSLaboralToolStripMenuItem.Click += new System.EventHandler(this.iNSSLaboralToolStripMenuItem_Click);
+            iNSSLaboralToolStripMenuItem.Name = "iNSSLaboralToolStripMenuItem";
+            iNSSLaboralToolStripMenuItem.Size = new Size(224, 26);
+            iNSSLaboralToolStripMenuItem.Text = "INSS laboral";
+            iNSSLaboralToolStripMenuItem.Click += iNSSLaboralToolStripMenuItem_Click;
             // 
             // sumaNotasToolStripMenuItem
             // 
-            this.sumaNotasToolStripMenuItem.Name = "sumaNotasToolStripMenuItem";
-            this.sumaNotasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.sumaNotasToolStripMenuItem.Text = "Suma notas";
-            this.sumaNotasToolStripMenuItem.Click += new System.EventHandler(this.sumaNotasToolStripMenuItem_Click);
+            sumaNotasToolStripMenuItem.Name = "sumaNotasToolStripMenuItem";
+            sumaNotasToolStripMenuItem.Size = new Size(224, 26);
+            sumaNotasToolStripMenuItem.Text = "Suma notas";
+            sumaNotasToolStripMenuItem.Click += sumaNotasToolStripMenuItem_Click;
             // 
             // compraToolStripMenuItem
             // 
-            this.compraToolStripMenuItem.Name = "compraToolStripMenuItem";
-            this.compraToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.compraToolStripMenuItem.Text = "Compra";
-            this.compraToolStripMenuItem.Click += new System.EventHandler(this.compraToolStripMenuItem_Click);
+            compraToolStripMenuItem.Name = "compraToolStripMenuItem";
+            compraToolStripMenuItem.Size = new Size(224, 26);
+            compraToolStripMenuItem.Text = "Compra";
+            compraToolStripMenuItem.Click += compraToolStripMenuItem_Click;
+            // 
+            // farmaciaToolStripMenuItem
+            // 
+            farmaciaToolStripMenuItem.Name = "farmaciaToolStripMenuItem";
+            farmaciaToolStripMenuItem.Size = new Size(224, 26);
+            farmaciaToolStripMenuItem.Text = "Farmacia";
+            farmaciaToolStripMenuItem.Click += farmaciaToolStripMenuItem_Click;
             // 
             // MDI
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(554, 302);
-            this.Controls.Add(this.menuStrip1);
-            this.IsMdiContainer = true;
-            this.MainMenuStrip = this.menuStrip1;
-            this.Name = "MDI";
-            this.Text = "Curso de verano";
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(633, 403);
+            Controls.Add(menuStrip1);
+            IsMdiContainer = true;
+            MainMenuStrip = menuStrip1;
+            Margin = new Padding(3, 4, 3, 4);
+            Name = "MDI";
+            Text = "Curso de verano";
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -101,5 +107,6 @@
         private ToolStripMenuItem iNSSLaboralToolStripMenuItem;
         private ToolStripMenuItem sumaNotasToolStripMenuItem;
         private ToolStripMenuItem compraToolStripMenuItem;
+        private ToolStripMenuItem farmaciaToolStripMenuItem;
     }
 }

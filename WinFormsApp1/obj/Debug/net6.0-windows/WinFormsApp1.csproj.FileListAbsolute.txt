@@ -19,3 +19,24 @@ C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-win
 C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MDI.resources
 C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Notas.resources
 C:\Users\Sistema2-17\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Impuesto.resources
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Impuesto.resources
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MDI.resources
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Notas.resources
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Consultorio.resources
