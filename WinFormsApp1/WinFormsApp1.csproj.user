@@ -16,5 +16,14 @@
     <Compile Update="Notas.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Practica1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Practica2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Practica3.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

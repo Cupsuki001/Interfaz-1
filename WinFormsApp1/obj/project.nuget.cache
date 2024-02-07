@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5zTJoB3AVs86W6X1yvPauNZf9sUOl7w2HYrWPn6F+dS/6MgRrb19XgQlmsTLCzWZXKQsvHL+BPLVqYIhUZ+kMA==",
+  "dgSpecHash": "fwSnHJmP3ur0M/5ODJTeqACxMd/q9EcJbcxIRmofovIMVuChyHoYoNzTrlcnYgu6Ol9AqTd5dq32efhYKH4AqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL 5590\\Downloads\\Interfaz-1-main\\WinFormsApp1\\WinFormsApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\DELL 5590\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Sistema2-17\\Downloads\\Interfaz-1-main\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

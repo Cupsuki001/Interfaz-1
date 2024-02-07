@@ -40,3 +40,28 @@ C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windo
 C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
 C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Consultorio.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Consultorio.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Impuesto.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.MDI.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Notas.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Practica1.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Practica2.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Practica3.resources
