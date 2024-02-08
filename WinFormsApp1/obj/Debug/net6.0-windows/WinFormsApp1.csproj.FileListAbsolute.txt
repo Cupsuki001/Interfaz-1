@@ -68,3 +68,5 @@ C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-win
 C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Practica1.resources
 C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Practica2.resources
 C:\Users\DELL 5590\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Practica3.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Sesion.resources
+C:\Users\Sistema2-17\Downloads\Interfaz-1-main\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Area.resources
