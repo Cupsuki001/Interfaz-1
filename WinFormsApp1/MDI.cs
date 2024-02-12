@@ -19,6 +19,10 @@ namespace WinFormsApp1
         Practica1 p = new Practica1();
         Practica2 p2 = new Practica2();
         Practica3 p3 = new Practica3();
+        F1 f1 = new F1();
+        F2 f2 = new F2();
+        F3 f3 = new F3();
+        F4 f4 = new F4();
         Area a = new Area();
         public MDI()
         {
@@ -73,6 +77,30 @@ namespace WinFormsApp1
 
             p3.MdiParent = this;
             p3.Show();
+        }
+
+        private void problema1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            f1.MdiParent = this;
+            f1.Show();
+        }
+
+        private void problema2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            f2.MdiParent= this;
+            f2.Show();
+        }
+
+        private void problema3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            f3.MdiParent= this;
+            f3.Show();
+        }
+
+        private void problema4ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            f4.MdiParent= this;
+            f4.Show();
         }
     }
 }

@@ -7,6 +7,18 @@
     <Compile Update="Consultorio.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="F1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F4.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

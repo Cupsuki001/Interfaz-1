@@ -39,6 +39,11 @@
             this.conversionDeKgToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.depreciacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.datosDelEmpleadoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reforzamientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.problema1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.problema2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.problema3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.problema4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -47,7 +52,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.eejmplosToolStripMenuItem,
-            this.clasePracticaToolStripMenuItem});
+            this.clasePracticaToolStripMenuItem,
+            this.reforzamientoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(554, 24);
@@ -69,35 +75,35 @@
             // iNSSLaboralToolStripMenuItem
             // 
             this.iNSSLaboralToolStripMenuItem.Name = "iNSSLaboralToolStripMenuItem";
-            this.iNSSLaboralToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.iNSSLaboralToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.iNSSLaboralToolStripMenuItem.Text = "INSS laboral";
             this.iNSSLaboralToolStripMenuItem.Click += new System.EventHandler(this.iNSSLaboralToolStripMenuItem_Click);
             // 
             // sumaNotasToolStripMenuItem
             // 
             this.sumaNotasToolStripMenuItem.Name = "sumaNotasToolStripMenuItem";
-            this.sumaNotasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sumaNotasToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.sumaNotasToolStripMenuItem.Text = "Suma notas";
             this.sumaNotasToolStripMenuItem.Click += new System.EventHandler(this.sumaNotasToolStripMenuItem_Click);
             // 
             // compraToolStripMenuItem
             // 
             this.compraToolStripMenuItem.Name = "compraToolStripMenuItem";
-            this.compraToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.compraToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.compraToolStripMenuItem.Text = "Compra";
             this.compraToolStripMenuItem.Click += new System.EventHandler(this.compraToolStripMenuItem_Click);
             // 
             // farmaciaToolStripMenuItem
             // 
             this.farmaciaToolStripMenuItem.Name = "farmaciaToolStripMenuItem";
-            this.farmaciaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.farmaciaToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.farmaciaToolStripMenuItem.Text = "Farmacia";
             this.farmaciaToolStripMenuItem.Click += new System.EventHandler(this.farmaciaToolStripMenuItem_Click);
             // 
             // areasToolStripMenuItem
             // 
             this.areasToolStripMenuItem.Name = "areasToolStripMenuItem";
-            this.areasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.areasToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.areasToolStripMenuItem.Text = "Areas";
             this.areasToolStripMenuItem.Click += new System.EventHandler(this.areasToolStripMenuItem_Click);
             // 
@@ -114,23 +120,62 @@
             // conversionDeKgToolStripMenuItem
             // 
             this.conversionDeKgToolStripMenuItem.Name = "conversionDeKgToolStripMenuItem";
-            this.conversionDeKgToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.conversionDeKgToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.conversionDeKgToolStripMenuItem.Text = "Conversion de kg";
             this.conversionDeKgToolStripMenuItem.Click += new System.EventHandler(this.conversionDeKgToolStripMenuItem_Click_1);
             // 
             // depreciacionToolStripMenuItem
             // 
             this.depreciacionToolStripMenuItem.Name = "depreciacionToolStripMenuItem";
-            this.depreciacionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.depreciacionToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.depreciacionToolStripMenuItem.Text = "Depreciacion";
             this.depreciacionToolStripMenuItem.Click += new System.EventHandler(this.depreciacionToolStripMenuItem_Click_1);
             // 
             // datosDelEmpleadoToolStripMenuItem
             // 
             this.datosDelEmpleadoToolStripMenuItem.Name = "datosDelEmpleadoToolStripMenuItem";
-            this.datosDelEmpleadoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.datosDelEmpleadoToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.datosDelEmpleadoToolStripMenuItem.Text = "Datos del Empleado";
             this.datosDelEmpleadoToolStripMenuItem.Click += new System.EventHandler(this.datosDelEmpleadoToolStripMenuItem_Click_1);
+            // 
+            // reforzamientoToolStripMenuItem
+            // 
+            this.reforzamientoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.problema1ToolStripMenuItem,
+            this.problema2ToolStripMenuItem,
+            this.problema3ToolStripMenuItem,
+            this.problema4ToolStripMenuItem});
+            this.reforzamientoToolStripMenuItem.Name = "reforzamientoToolStripMenuItem";
+            this.reforzamientoToolStripMenuItem.Size = new System.Drawing.Size(96, 20);
+            this.reforzamientoToolStripMenuItem.Text = "Reforzamiento";
+            // 
+            // problema1ToolStripMenuItem
+            // 
+            this.problema1ToolStripMenuItem.Name = "problema1ToolStripMenuItem";
+            this.problema1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.problema1ToolStripMenuItem.Text = "Problema 1";
+            this.problema1ToolStripMenuItem.Click += new System.EventHandler(this.problema1ToolStripMenuItem_Click);
+            // 
+            // problema2ToolStripMenuItem
+            // 
+            this.problema2ToolStripMenuItem.Name = "problema2ToolStripMenuItem";
+            this.problema2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.problema2ToolStripMenuItem.Text = "Problema 2";
+            this.problema2ToolStripMenuItem.Click += new System.EventHandler(this.problema2ToolStripMenuItem_Click);
+            // 
+            // problema3ToolStripMenuItem
+            // 
+            this.problema3ToolStripMenuItem.Name = "problema3ToolStripMenuItem";
+            this.problema3ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.problema3ToolStripMenuItem.Text = "Problema 3";
+            this.problema3ToolStripMenuItem.Click += new System.EventHandler(this.problema3ToolStripMenuItem_Click);
+            // 
+            // problema4ToolStripMenuItem
+            // 
+            this.problema4ToolStripMenuItem.Name = "problema4ToolStripMenuItem";
+            this.problema4ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.problema4ToolStripMenuItem.Text = "Problema 4";
+            this.problema4ToolStripMenuItem.Click += new System.EventHandler(this.problema4ToolStripMenuItem_Click);
             // 
             // MDI
             // 
@@ -162,5 +207,10 @@
         private ToolStripMenuItem depreciacionToolStripMenuItem;
         private ToolStripMenuItem datosDelEmpleadoToolStripMenuItem;
         private ToolStripMenuItem areasToolStripMenuItem;
+        private ToolStripMenuItem reforzamientoToolStripMenuItem;
+        private ToolStripMenuItem problema1ToolStripMenuItem;
+        private ToolStripMenuItem problema2ToolStripMenuItem;
+        private ToolStripMenuItem problema3ToolStripMenuItem;
+        private ToolStripMenuItem problema4ToolStripMenuItem;
     }
 }
